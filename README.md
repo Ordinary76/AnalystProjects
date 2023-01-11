@@ -1,5 +1,6 @@
+
 # AnalystProjects
-Here you can find projects done during education in Yandex. Totally you can find 3 of them:
+Here you can find projects done during education in Yandex. Searching for a job Data Analyst. Totally you can find 3 of them:
 1) Analysis of banking loss of clients;
 2) Analysis of company income losses and formuling tips to change situation;
 3) A/B test results. Checking results, formulating tips for the company.
