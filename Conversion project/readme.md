@@ -5,4 +5,3 @@ Find out reasons of company losses and make some recommendations for the company
 ## 💬Result:
 
 ## ✔️Status:
-
